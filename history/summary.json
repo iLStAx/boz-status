@@ -77,18 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/back-dev.burnout-zero.com",
     "slug": "back-dev-burnout-zero",
     "status": "up",
-    "uptime": "7.02%",
-    "uptimeDay": "7.02%",
-    "uptimeWeek": "7.02%",
-    "uptimeMonth": "7.02%",
-    "uptimeYear": "7.02%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 776,
     "timeDay": 776,
     "timeWeek": 776,
     "timeMonth": 776,
     "timeYear": 776,
-    "dailyMinutesDown": {
-      "2022-02-10": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
