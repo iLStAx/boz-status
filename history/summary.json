@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 496,
-    "timeWeek": 711,
-    "timeMonth": 711,
-    "timeYear": 711,
+    "time": 721,
+    "timeDay": 654,
+    "timeWeek": 701,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 533,
-    "timeWeek": 687,
-    "timeMonth": 687,
-    "timeYear": 687,
+    "time": 695,
+    "timeDay": 658,
+    "timeWeek": 683,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 526,
-    "timeWeek": 675,
-    "timeMonth": 675,
-    "timeYear": 675,
+    "time": 682,
+    "timeDay": 645,
+    "timeWeek": 673,
+    "timeMonth": 682,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 197,
-    "timeWeek": 170,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "time": 165,
+    "timeDay": 154,
+    "timeWeek": 135,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Back-dev Burnout Zero",
+    "url": "https://back-dev.burnout-zero.com",
+    "icon": "https://favicons.githubusercontent.com/back-dev.burnout-zero.com",
+    "slug": "back-dev-burnout-zero",
+    "status": "down",
+    "uptime": "12.13%",
+    "uptimeDay": "12.13%",
+    "uptimeWeek": "12.13%",
+    "uptimeMonth": "12.13%",
+    "uptimeYear": "12.13%",
+    "time": 799,
+    "timeDay": 799,
+    "timeWeek": 799,
+    "timeMonth": 799,
+    "timeYear": 799,
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   }
 ]
