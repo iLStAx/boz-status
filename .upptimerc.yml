@@ -13,7 +13,7 @@ sites:
   - name: Front Burnout Zero
     url: https://front.burnout-zero.com
   - name: Back-dev Burnout Zero
-    url: https://back-dev.burnout-zero.com
+    url: https://back-dev.burnout-zero.com/healthz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
