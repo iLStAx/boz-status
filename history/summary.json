@@ -4,36 +4,40 @@
     "url": "https://www.burnout-zero.com",
     "icon": "https://favicons.githubusercontent.com/www.burnout-zero.com",
     "slug": "bournout-zero",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 708,
     "timeDay": 553,
-    "timeWeek": 673,
+    "timeWeek": 687,
     "timeMonth": 708,
     "timeYear": 708,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-23": 1
+    }
   },
   {
     "name": "App Burnout Zero",
     "url": "https://app.burnout-zero.com",
     "icon": "https://favicons.githubusercontent.com/app.burnout-zero.com",
     "slug": "app-burnout-zero",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
     "timeDay": 512,
-    "timeWeek": 616,
+    "timeWeek": 633,
     "timeMonth": 674,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-23": 0
+    }
   },
   {
     "name": "Dev Burnout Zero",
@@ -48,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 671,
     "timeDay": 516,
-    "timeWeek": 625,
+    "timeWeek": 643,
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {}
@@ -66,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 201,
     "timeDay": 332,
-    "timeWeek": 313,
+    "timeWeek": 341,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -84,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 687,
     "timeDay": 559,
-    "timeWeek": 644,
+    "timeWeek": 663,
     "timeMonth": 687,
     "timeYear": 687,
     "dailyMinutesDown": {}
@@ -102,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 641,
     "timeDay": 539,
-    "timeWeek": 641,
+    "timeWeek": 658,
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {}
