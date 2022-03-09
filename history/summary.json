@@ -44,9 +44,9 @@
     "url": "https://dev.burnout-zero.com",
     "icon": "https://favicons.githubusercontent.com/dev.burnout-zero.com",
     "slug": "dev-burnout-zero",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 707,
     "timeMonth": 689,
     "timeYear": 689,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   },
   {
     "name": "Front Burnout Zero",
@@ -99,11 +101,11 @@
     "icon": "https://favicons.githubusercontent.com/back.burnout-zero.com",
     "slug": "back-burnout-zero",
     "status": "up",
-    "uptime": "74.15%",
+    "uptime": "75.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.15%",
-    "uptimeYear": "74.15%",
+    "uptimeMonth": "75.18%",
+    "uptimeYear": "75.18%",
     "time": 692,
     "timeDay": 561,
     "timeWeek": 714,
