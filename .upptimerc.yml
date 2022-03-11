@@ -10,8 +10,6 @@ sites:
     url: https://app.burnout-zero.com
   - name: Dev Burnout Zero
     url: https://dev.burnout-zero.com
-  - name: Front Burnout Zero
-    url: https://front.burnout-zero.com
   - name: Back-dev Burnout Zero
     url: https://back-dev.burnout-zero.com/healthz
   - name: Back Burnout Zero
