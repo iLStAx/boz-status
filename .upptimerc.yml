@@ -12,7 +12,11 @@ sites:
     url: https://dev.burnout-zero.com
   - name: Back-dev Burnout Zero
     url: https://back-dev.burnout-zero.com/healthz
-  - name: Back Burnout Zero
+  - name: Staging Burnout Zero
+    url: https://staging.burnout-zero.com
+  - name: Staging-dev Burnout Zero
+    url: https://staging-dev.burnout-zero.com/healthz
+  - name: Prod Back Burnout Zero
     url: https://back.burnout-zero.com/healthz
 
 status-website:
