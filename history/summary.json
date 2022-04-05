@@ -91,19 +91,19 @@
     "url": "https://staging.burnout-zero.com",
     "icon": "https://favicons.githubusercontent.com/staging.burnout-zero.com",
     "slug": "staging-burnout-zero",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 2881,
-    "timeWeek": 980,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 924,
+    "timeDay": 2062,
+    "timeWeek": 924,
+    "timeMonth": 924,
+    "timeYear": 924,
     "dailyMinutesDown": {
-      "2022-04-05": 0
+      "2022-04-05": 27
     }
   },
   {
