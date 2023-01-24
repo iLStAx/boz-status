@@ -1,7 +1,7 @@
 url: https://back-staging.burnout-zero.com/healthz
-status: up
-code: 200
-responseTime: 663
-lastUpdated: 2023-01-23T23:10:16.794Z
+status: down
+code: 503
+responseTime: 561
+lastUpdated: 2023-01-24T05:46:34.413Z
 startTime: Wed Mar 30 2022 03:44:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
