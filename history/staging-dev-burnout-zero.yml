@@ -1,7 +1,7 @@
 url: https://back-staging.burnout-zero.com/healthz
 status: down
 code: 503
-responseTime: 700
-lastUpdated: 2023-09-14T23:09:31.139Z
+responseTime: 552
+lastUpdated: 2023-09-15T23:08:57.395Z
 startTime: 2022-03-30T03:44:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
