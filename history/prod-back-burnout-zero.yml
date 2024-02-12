@@ -1,7 +1,7 @@
 url: https://back.burnout-zero.com/healthz
-status: up
-code: 200
-responseTime: 507
-lastUpdated: 2024-02-11T23:09:10.768Z
+status: down
+code: 503
+responseTime: 505
+lastUpdated: 2024-02-12T21:56:05.980Z
 startTime: 2022-03-30T03:44:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
