@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 360,
-    "timeDay": 377,
-    "timeWeek": 287,
-    "timeMonth": 234,
-    "timeYear": 249,
+    "time": 359,
+    "timeDay": 207,
+    "timeWeek": 282,
+    "timeMonth": 238,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2024-06-13": 89,
       "2024-01-06": 18,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 416,
-    "timeDay": 509,
-    "timeWeek": 462,
-    "timeMonth": 452,
+    "timeDay": 450,
+    "timeWeek": 460,
+    "timeMonth": 455,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2024-04-01": 65
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 393,
-    "timeDay": 531,
-    "timeWeek": 506,
-    "timeMonth": 465,
+    "timeDay": 473,
+    "timeWeek": 504,
+    "timeMonth": 466,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2024-04-01": 102
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 645,
-    "timeDay": 699,
-    "timeWeek": 675,
-    "timeMonth": 676,
+    "timeDay": 651,
+    "timeWeek": 674,
+    "timeMonth": 681,
     "timeYear": 642,
     "dailyMinutesDown": {}
   },
@@ -88,18 +88,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.burnout-zero.com.ico",
     "slug": "staging-burnout-zero",
     "status": "down",
-    "uptime": "86.89%",
+    "uptime": "86.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.86%",
+    "uptimeYear": "69.59%",
     "time": 387,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-07-20": 39,
+      "2024-07-21": 44,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -218,7 +219,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/back-staging.burnout-zero.com.ico",
     "slug": "staging-dev-burnout-zero",
     "status": "down",
-    "uptime": "31.89%",
+    "uptime": "31.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -229,7 +230,8 @@
     "timeMonth": 0,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-07-20": 39,
+      "2024-07-21": 44,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -592,8 +594,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   },
   {
@@ -608,10 +609,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 683,
-    "timeWeek": 664,
-    "timeMonth": 631,
-    "timeYear": 632,
+    "timeDay": 595,
+    "timeWeek": 658,
+    "timeMonth": 634,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2024-02-12": 16
     }
