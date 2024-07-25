@@ -69,19 +69,19 @@
     "url": "https://back-dev.burnout-zero.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/back-dev.burnout-zero.com.ico",
     "slug": "back-dev-burnout-zero",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 645,
-    "timeDay": 600,
-    "timeWeek": 659,
-    "timeMonth": 681,
+    "timeDay": 663,
+    "timeWeek": 674,
+    "timeMonth": 685,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 10
     }
   },
   {
@@ -101,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2024-07-25": 1052,
+      "2024-07-25": 1061,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2024-07-25": 1052,
+      "2024-07-25": 1061,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
