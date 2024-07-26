@@ -71,9 +71,9 @@
     "slug": "back-dev-burnout-zero",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 645,
     "timeDay": 652,
@@ -81,7 +81,7 @@
     "timeMonth": 678,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2024-07-26": 0
+      "2024-07-26": 6
     }
   },
   {
@@ -101,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-07-26": 34,
+      "2024-07-26": 40,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-07-26": 34,
+      "2024-07-26": 40,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
