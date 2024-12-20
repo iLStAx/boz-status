@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 253,
-    "timeDay": 199,
-    "timeWeek": 278,
-    "timeMonth": 289,
-    "timeYear": 245,
+    "time": 254,
+    "timeDay": 288,
+    "timeWeek": 295,
+    "timeMonth": 290,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2024-06-13": 89,
       "2024-01-06": 18
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 424,
-    "timeDay": 284,
-    "timeWeek": 426,
-    "timeMonth": 397,
+    "timeDay": 462,
+    "timeWeek": 430,
+    "timeMonth": 399,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2024-04-01": 65
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 398,
-    "timeDay": 303,
-    "timeWeek": 399,
-    "timeMonth": 377,
+    "timeDay": 295,
+    "timeWeek": 379,
+    "timeMonth": 376,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2024-04-01": 102
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.17%",
     "time": 650,
-    "timeDay": 548,
-    "timeWeek": 621,
-    "timeMonth": 632,
+    "timeDay": 664,
+    "timeWeek": 630,
+    "timeMonth": 633,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2024-09-04": 72,
@@ -120,18 +120,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.burnout-zero.com.ico",
     "slug": "staging-burnout-zero",
     "status": "down",
-    "uptime": "73.62%",
+    "uptime": "73.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.22%",
+    "uptimeYear": "27.94%",
     "time": 384,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 393,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2024-12-19": 51,
+      "2024-12-20": 47,
+      "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -402,7 +403,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/back-staging.burnout-zero.com.ico",
     "slug": "staging-dev-burnout-zero",
     "status": "down",
-    "uptime": "27.02%",
+    "uptime": "26.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -413,7 +414,8 @@
     "timeMonth": 0,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2024-12-19": 51,
+      "2024-12-20": 47,
+      "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -776,8 +778,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   },
   {
@@ -792,9 +793,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
-    "timeDay": 432,
-    "timeWeek": 510,
-    "timeMonth": 502,
+    "timeDay": 492,
+    "timeWeek": 512,
+    "timeMonth": 503,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2024-02-12": 16
