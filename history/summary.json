@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-22": 1004,
+      "2025-05-22": 1017,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -518,7 +518,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-22": 1004,
+      "2025-05-22": 1017,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -890,19 +890,19 @@
     "url": "https://back.burnout-zero.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/back.burnout-zero.com.ico",
     "slug": "prod-back-burnout-zero",
-    "status": "down",
+    "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 579,
-    "timeWeek": 518,
-    "timeMonth": 516,
-    "timeYear": 570,
+    "time": 586,
+    "timeDay": 532,
+    "timeWeek": 514,
+    "timeMonth": 515,
+    "timeYear": 569,
     "dailyMinutesDown": {
-      "2025-05-22": 0
+      "2025-05-22": 14
     }
   }
 ]
