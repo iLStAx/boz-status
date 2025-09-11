@@ -28,19 +28,19 @@
     "url": "https://app.burnout-zero.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.burnout-zero.com.ico",
     "slug": "app-burnout-zero",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 404,
-    "timeWeek": 398,
-    "timeMonth": 404,
+    "timeDay": 477,
+    "timeWeek": 417,
+    "timeMonth": 409,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2025-09-11": 1
+      "2025-09-11": 13
     }
   },
   {
@@ -107,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 438,
+      "2025-09-11": 450,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -491,7 +491,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 438,
+      "2025-09-11": 450,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
