@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 286,
-    "timeDay": 212,
-    "timeWeek": 276,
-    "timeMonth": 318,
+    "timeDay": 358,
+    "timeWeek": 268,
+    "timeMonth": 319,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2025-07-14": 1215,
@@ -34,10 +34,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 310,
-    "timeWeek": 375,
-    "timeMonth": 382,
+    "time": 439,
+    "timeDay": 672,
+    "timeWeek": 416,
+    "timeMonth": 393,
     "timeYear": 440,
     "dailyMinutesDown": {}
   },
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 357,
-    "timeDay": 472,
-    "timeWeek": 193,
-    "timeMonth": 167,
+    "timeDay": 825,
+    "timeWeek": 290,
+    "timeMonth": 185,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2025-06-24": 56
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
-    "time": 537,
-    "timeDay": 209,
-    "timeWeek": 246,
-    "timeMonth": 287,
-    "timeYear": 496,
+    "time": 536,
+    "timeDay": 302,
+    "timeWeek": 256,
+    "timeMonth": 290,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2025-06-20": 24,
       "2025-05-05": 892,
@@ -94,7 +94,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.burnout-zero.com.ico",
     "slug": "staging-burnout-zero",
     "status": "down",
-    "uptime": "54.91%",
+    "uptime": "54.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -105,7 +105,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 63,
+      "2025-11-24": 59,
+      "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -468,8 +469,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   },
   {
@@ -478,7 +478,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/back-staging.burnout-zero.com.ico",
     "slug": "staging-dev-burnout-zero",
     "status": "down",
-    "uptime": "20.15%",
+    "uptime": "20.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -489,7 +489,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 63,
+      "2025-11-24": 59,
+      "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -852,8 +853,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   },
   {
@@ -867,11 +867,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 486,
-    "timeDay": 229,
-    "timeWeek": 253,
-    "timeMonth": 262,
-    "timeYear": 439,
+    "time": 485,
+    "timeDay": 349,
+    "timeWeek": 251,
+    "timeMonth": 266,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2025-09-20": 22,
       "2025-08-21": 868,
